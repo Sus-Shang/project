@@ -1,1 +1,2 @@
-Hi this is file A. This is a great file.This is Awesome! 
+Hi!
+This is a great file.
